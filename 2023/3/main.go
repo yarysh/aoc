@@ -1,4 +1,4 @@
-// Advent of Code 2023, Day 1
+// Advent of Code 2023, Day 3
 // https://adventofcode.com/2023/day/3
 
 package main
